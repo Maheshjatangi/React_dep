@@ -1,0 +1,15 @@
+.navbar{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+}
+.logo img{
+    width:60%;
+    object-fit: contain;
+}
+.navbar ul li{
+    display: inline;
+    justify-content: space-between;
+    padding: 20px;
+    font-size: 20px;
+}
